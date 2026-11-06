@@ -15,6 +15,14 @@
   欢迎来到我的 GitHub 主页！
 </details>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xjl-cck/xjl-cck/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xjl-cck/xjl-cck/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/xjl-cck/xjl-cck/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
 ### 👨‍💻 关于我
 
 - 🎓 学生 / 开发者
